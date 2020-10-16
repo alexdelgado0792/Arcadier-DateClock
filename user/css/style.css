@@ -1,0 +1,40 @@
+.wrap {
+	width: 90%;
+	max-width: 1000px;
+	margin-left:30%;
+}
+
+.widget {
+	width: 40%;
+	margin: 2em;
+}
+
+.widget p {
+	display: inline-block;
+	line-height: 1em;
+}
+
+.date {
+	font-family: Oswald, Arial;
+	text-align: center;
+	font-size:1.5em;
+	margin-bottom: 0.3125rem;
+	width: 100%;
+}
+
+.clock {
+	font-family: Oswald, Arial;
+	width: 100%;
+	font-size: 4em;
+	text-align: center;
+}
+
+.clock .box-seconds {
+	display: inline-block;
+}
+
+.clock .seconds,
+.clock .ampm {
+	font-size: 2rem;
+	display: block;
+}
