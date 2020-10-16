@@ -1,6 +1,4 @@
 # Date & Clock Plug-in (Arcadier-Plugins)
-
-# Description
 Example to display date and time in Arcadier marketplace.
 
 # File structure
